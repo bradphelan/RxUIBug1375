@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="300" Width="300">
     <Grid>
-        <Button x:Name="Button" />
+        <Button x:Name="Button">Mouse over me to trigger bug</Button>
     </Grid>
 </Window>
